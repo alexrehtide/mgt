@@ -1,0 +1,8 @@
+export const SET_RECORDS = 'SET_RECORDS'
+export const SET_RECORD = 'SET_RECORD'
+export const SELECT_RECORD = 'SELECT_RECORD'
+export const CREATE_RECORD = 'CREATE_RECORD'
+export const UPDATE_RECORD = 'UPDATE_RECORD'
+export const DELETE_RECORD = 'DELETE_RECORD'
+export const SET_VALUE = 'SET_VALUE'
+export const SET_ERROR = 'SET_ERROR'

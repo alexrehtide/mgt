@@ -1,0 +1,12 @@
+// app global css in SCSS form
+$white: #FFFFFF;
+
+.sheet {
+  box-shadow: $shadow-3;
+  background: $white;
+}
+
+.dialog {
+  width: 900px;
+  max-width: 90% !important;
+}
